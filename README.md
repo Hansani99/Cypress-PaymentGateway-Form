@@ -1,5 +1,3 @@
-Here's a well-structured `README.md` file for your Cypress testing project:
-
 ```markdown
 # Cypress Testing: Payment Gateway Form Validation
 
