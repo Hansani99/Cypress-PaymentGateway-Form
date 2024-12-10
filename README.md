@@ -99,13 +99,12 @@ This project is licensed under the MIT License.
 ## 💡 **Future Enhancements**
 - Add comprehensive end-to-end tests for multiple payment scenarios.
 - Implement advanced test cases for security and performance validation.
-- Integrate with CI/CD pipelines for automated test execution.
 
 ---
 
 ## 📞 **Contact**
-For any queries or suggestions, please reach out at [your-email@example.com].
+For any queries or suggestions, please reach out at [sumuduhansani.25@gmail.com].
 
 ```
 
-Replace `your-username` and `your-email@example.com` with your actual GitHub username and email. Let me know if you need further adjustments!
+`Sumudu Hansani`  `sumuduhansani.25@gmail.com` "Hansani99" Let me know if you need further adjustments!
