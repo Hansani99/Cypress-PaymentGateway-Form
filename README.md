@@ -91,11 +91,6 @@ Feel free to submit issues or pull requests. Contributions are welcome to enhanc
 
 ---
 
-## 📄 **License**
-This project is licensed under the MIT License.
-
----
-
 ## 💡 **Future Enhancements**
 - Add comprehensive end-to-end tests for multiple payment scenarios.
 - Implement advanced test cases for security and performance validation.
